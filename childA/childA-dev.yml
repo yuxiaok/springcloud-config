@@ -1,2 +1,2 @@
 config:
-  info: "update childA config info for dev(dev)"
+  info: "childA config info for dev(dev)"
